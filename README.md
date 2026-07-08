@@ -202,6 +202,4 @@ Analisis mekanis dan struktur logika perhitungan statistik dalam program ini dis
 * Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate Data Analysis* (8th ed.). Cengage Learning.
 * Sugiyono. (2019). *Metode Penelitian Kuantitatif, Kualitatif, dan R&D*. Alfabeta.
 
----
 
-## 🐍 Source Code Utuh (Google Colab Version)
